@@ -1,2 +1,4 @@
 # Analysis-of-Behavioral-Social-Cultural-Shift-among-Foreigner-Residents-in-South-Korea
 This project explores behavioral, social, and cultural patterns among foreign residents in South Korea, focusing on factors such as stress, language proficiency, social participation, and long-term adaptation. Motivated by recurring trends I observed in real-life social contexts, I conducted a structured data analysis to move beyond anecdotal impressions and identify measurable relationships between these variables. The goal was to generate evidence-based insights that could support more targeted, sustainable, and data-informed integration strategies and policy considerations.
+
+Access to the survey dataset is restricted. Requests for access may be submitted to the project owner at zrioulimalak@hanyang.ac.kr
